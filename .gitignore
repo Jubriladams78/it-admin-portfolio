@@ -1,0 +1,22 @@
+# Secrets and keys
+*.pem
+*.pfx
+*.key
+*.p12
+.env
+.env.*
+secrets.*
+*.secret
+credentials*
+# State and local files
+*.tfstate
+*.tfstate.*
+.terraform/
+*.log
+*.vhdx
+*.iso
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
