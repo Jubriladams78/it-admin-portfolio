@@ -1,6 +1,6 @@
 # IT Administration Portfolio
 
-Hands on labs in IT support, system administration, Microsoft Azure, Microsoft 365, and networking. Each lab is built in an isolated environment with fake data and documented so someone else can repeat it.
+Hands-on labs in IT support, system administration, Microsoft Azure, Microsoft 365, and networking. Each lab is built in an isolated environment with fake data and documented so that someone else can repeat it.
 
 | Lab | Skills | Status | Video |
 |-----|--------|--------|-------|
