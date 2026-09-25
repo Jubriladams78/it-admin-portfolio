@@ -8,7 +8,7 @@ Hands-on labs in IT support, system administration, Microsoft Azure, Microsoft 3
 | Azure Administrator Project | azure, azure-cli, az-104, rbac | Not started | |
 | Support Documentation Kit | documentation, runbooks, knowledge-base, itil | Not started | |
 | ServiceDesk Simulator Lab | helpdesk, service-desk, it-support, troubleshooting | Not started | |
-| Active Directory Domain Lab | active-directory, windows-server, powershell, group-policy | Not started | |
+| [Active Directory Domain Lab](https://github.com/Jubriladams78/windows-server-2025-ad-dns-gpo-lab) | active-directory, windows-server, powershell, group-policy | Not started | |
 | Microsoft 365 Tenant Administration | microsoft-365, entra-id, exchange-online, powershell | Not started | |
 | Network Troubleshooting Lab | networking, vlan, dhcp, dns | Not started | |
 
