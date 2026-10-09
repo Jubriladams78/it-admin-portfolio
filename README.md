@@ -12,4 +12,4 @@ Hands-on labs in IT support, system administration, Microsoft Azure, Microsoft 3
 | Network Troubleshooting Lab | networking, vlan, dhcp, dns | Not started | |
 
 ## Certifications
-Microsoft Azure Solutions Architect Expert, Azure Administrator Associate (AZ-104), Azure Fundamentals (AZ-900), CompTIA A+, Network+, Security+, Cloud+, ITIL 4 Foundation, AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, Linux Essentials.
+Microsoft Azure Administrator (AZ-104), Azure Fundamentals (AZ-900), AZ-305 exam passed, CompTIA A+, Network+, Security+, Cloud+, ITIL 4 Foundation, AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, Linux Essentials.
